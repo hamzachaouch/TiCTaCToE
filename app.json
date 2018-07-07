@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "TiC TaC ToE",
+    "version": "1.0.0",
+    "slug": "tictactoe",
+    "sdkVersion": "27.0.0",
+    "icon":"/Tic.png",
+    "ios": {
+      "bundleIdentifier": "com.hamdev.tictactoe"
+    },
+    "android": {
+      "package": "com.hamdev.tictactoe"
+    }
+  }
+}
